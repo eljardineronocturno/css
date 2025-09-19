@@ -1,0 +1,44 @@
+body {background-color: black;}
+div {color: darkorange;
+font-family: sans-serif;
+font-size: large;}
+p {color: rgb(194, 165, 160);
+font-size: xx-large;
+}
+body {
+    text-align:center;
+}
+img{height: auto;
+width: 300;}
+.alert-text {color: green;
+    font-weight: 900;}
+#title{
+    color: red;
+    background-color: greenyellow ;
+    font-family: 'Franklin Gothic Medium';
+font-size: xx-large;}
+.subsection.header{color: #323232;
+text-align: center;}
+.subsection#preview{color: blue;}
+.read, .unread{
+    color: white;
+    background-color: black;}
+
+    /* data importante */
+
+    p {
+        /* he example: */
+        color: #1100ff;
+    }
+
+    p {
+        /* rgb example: */
+        color: rgb(100, 0, 127)
+    }
+
+    p {
+        /* hsl example: */
+        color: hsl(15, 82%, 56%)
+    }
+
+    
